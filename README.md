@@ -1,2 +1,1 @@
-# chord-finder-app
-Aplicativo Flutter + FastAPI para análise e extração de acordes musicais.
+Atualiza README com informações do projeto
